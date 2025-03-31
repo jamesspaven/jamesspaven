@@ -41,14 +41,3 @@
   <img alt="Windows 11"
     src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
-
-<h2>💉 Pentesting stats 💉</h2>
-
-<div align="left">
-  <a href="https://app.hackthebox.com/profile/1621662">
-    <img src="http://www.hackthebox.eu/badge/image/1621662" height="100" alt="Hack The Box TheTorva">
-  </a>
-  <a href="https://tryhackme.com/p/TorvaMessor">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/TorvaMessor.png" height="100" alt="TryHackMe">
-  </a>
-</div>
