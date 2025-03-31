@@ -1,4 +1,4 @@
-<h1 align="center">🇦🇺 Hey! I'm James 🇦🇺</h1>
+<h1 align="left">🇦🇺 Hey! I'm James 🇦🇺</h1>
 
 - 🔭 I’m currently working on **REDACTED**
 
