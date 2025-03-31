@@ -19,7 +19,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pr,ae,ai,ps,windows,blender,redhat,ubuntu,obsidian,figma,apple,vim&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=pr,ae,ai,ps,blender,ubuntu,redhat,apple,vim,powershell,lua&theme=dark" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,gmail,linux,arch,gcp,neovim,python,discord,bots,notion,svg,vscode,visualstudio&theme=dark" />  </a>
+    <img src="https://skillicons.dev/icons?i=github,gmail,linux,arch,windows,gcp,neovim,python,discord,bots,notion,svg,vscode,visualstudio,bash,robloxstudio,obsidian,figma&theme=dark" />  </a>
 </p>
 
  <h2>🐧 OS/Distros 🐧 </h2>
